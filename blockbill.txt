@@ -164,3 +164,4 @@ win10.ipv6.microsoft.com
 www.bingads.microsoft.com
 www.go.microsoft.akadns.net
 www.msftncsi.com
+tastytabapp.com
